@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UCStones" representedClassName="UCStones" syncable="YES" codeGenerationType="class">
+        <attribute name="latitude" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" defaultValueString="UCStones" syncable="YES">
+            <userInfo>
+                <entry key="key" value="value"/>
+            </userInfo>
+        </attribute>
+        <attribute name="radius" optional="YES" attributeType="Float" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="UCStones" positionX="-63" positionY="-18" width="128" height="90"/>
+    </elements>
+</model>

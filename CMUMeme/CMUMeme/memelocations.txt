@@ -1,0 +1,27 @@
+Stever House: 
+	Latitude: 40.4461735
+	Longitude: -79.94264079999999
+
+Walking to the Sky:
+	Latitude: 40.4441553
+	Longitude:-79.94286720000002
+
+The Fence:
+	Latitude: 40.4422284
+	Longitude: -79.94345809999999
+
+Schlounge:
+	Latitude: 40.4413226
+	Longitude: -79.93907569999999
+
+Scaife: 
+	Latitude: 40.4418248
+	Longitude: -79.94732269999997
+
+Gates: 
+	Latitude: 40.4435476
+	Longitude: -79.94461839999997
+
+UC Stones:
+	Latitude: 40.44335419999999
+	Longitude: -79.9419274
